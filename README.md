@@ -6,8 +6,8 @@
    
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Большая аналитика Дота 2](https://github.com/Myxosan/Portfolio/blob/main/dota2/dota_2.ipynb) | Мой второй проект с использованием реальных данных. Проект для мастерской Яндекс Практикум. Проведена аналитика реальных матчей компьютерной игры Dota 2. Целью было узнать, какие факторы влияют на победу в матчах |python, pandas, matplotlib, seaborn, scipy.stats, ttest_ind, pointbiserialr, proportions_ztest |
-| 2.   | [Визуализация Медицинской Статистики](https://github.com/Myxosan/Portfolio/tree/main/Med) | Мой первый проект с использованием реальных данных. Анализ проводился для реального заказчика. Ссылка на дашборд: https://public.tableau.com/app/profile/dmitry.bystrow/viz/_17187167103320/Dashboard2?publish=yes. Ссылка на статью, где используется дашборд:http://webmedstat.ru/index.php/news/58-o-dinamike-oslozhnenij-beremennostii-rodov-1995-2022 |python, pandas,tableau|
+| 1.   | [Визуализация Медицинской Статистики](https://github.com/Myxosan/Portfolio/tree/main/Med) | Мой первый проект с использованием реальных данных. Анализ проводился для реального заказчика. Ссылка на дашборд: https://public.tableau.com/app/profile/dmitry.bystrow/viz/_17187167103320/Dashboard2?publish=yes. Ссылка на статью, где используется дашборд:http://webmedstat.ru/index.php/news/58-o-dinamike-oslozhnenij-beremennostii-rodov-1995-2022 |python, pandas,tableau|
+| 2.   | [Большая аналитика Дота 2](https://github.com/Myxosan/Portfolio/blob/main/dota2/dota_2.ipynb) | Мой второй проект с использованием реальных данных. Проект для мастерской Яндекс Практикум. Проведена аналитика реальных матчей компьютерной игры Dota 2. Целью было узнать, какие факторы влияют на победу в матчах |python, pandas, matplotlib, seaborn, scipy.stats, ttest_ind, pointbiserialr, proportions_ztest |
 
 
 2. Учебные проекты
